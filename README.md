@@ -1,1 +1,1 @@
-#Deploy: https://yavgz.github.io/valery/
+#Deploy: https://valeriagz.github.io/proyecto_final/index.html
